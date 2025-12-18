@@ -117,3 +117,5 @@ $RECYCLE.BIN/
 *.swo
 *.orig
 *.bak
+
+book/pytorch/
